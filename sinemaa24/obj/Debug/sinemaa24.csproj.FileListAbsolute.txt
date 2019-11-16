@@ -1,0 +1,10 @@
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\bin\Debug\sinemaa24.exe.config
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\bin\Debug\sinemaa24.exe
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\bin\Debug\sinemaa24.pdb
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\obj\Debug\sinemaa24.csprojResolveAssemblyReference.cache
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\obj\Debug\sinemaa24.Form1.resources
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\obj\Debug\sinemaa24.Properties.Resources.resources
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\obj\Debug\sinemaa24.csproj.GenerateResource.Cache
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\obj\Debug\sinemaa24.exe
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\obj\Debug\sinemaa24.pdb
+C:\Users\Kübra\Desktop\sinemaa24\sinemaa24\obj\Debug\sinemaa24.Form2.resources
